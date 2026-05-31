@@ -1,0 +1,8 @@
+Date = 1 March 2026
+Breif ->
+    This project is a gambling training site {No Money involved}...
+    Ads are used for Money.
+    An Mern Project {REACT, EXPRESS, Backend.}
+    the Reward system, is not yet decided.
+
+<Header> : is Done, some reference from last code.
