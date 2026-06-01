@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+body{
+    background-color: black;
+    color: white
+}
+
+.mines_tiles{
+    @apply h-[20%] w-[20%] bg-gray-500 p-1 border-3 border-black hover:scale-105 hover:cursor-pointer rounded-2xl
+}
