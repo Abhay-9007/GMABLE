@@ -31,7 +31,7 @@ const transectionSchema = new mongoose.Schema({
             return `${now.getDate()}/${now.getMonth()+1}/${now.getFullYear()} ${now.getHours()}:${now.getMinutes()}:${now.getSeconds()}`;
         }
     },
-    description : {
+    type : {
         type : String,
     }
 })
