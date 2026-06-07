@@ -1,7 +1,6 @@
 
 import {Link} from 'react-router-dom'
-import {useState, useEffect, useContext} from "react"
-import axios from 'axios'
+import {useContext} from "react"
 
 import Top_UP_BTN from './BTN/Top_UP_BTN'
 import { UserDataContext } from './UserDataContext'
