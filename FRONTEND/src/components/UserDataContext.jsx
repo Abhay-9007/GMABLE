@@ -48,10 +48,6 @@ function UserDataContextProvider(props) {
             <UserDataContext.Provider value={{userData, setUserData}}>
                 {props.children}
             </UserDataContext.Provider>
-            {/* {props.children} */}
-            {/* <h1>Username : {userData.USERNAME}</h1>
-            <h1>Email : {userData.EMAIL}</h1>
-            <h1>Wallet : {userData.WALLET}</h1> */}
         </div>
     )
 }
